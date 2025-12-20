@@ -11,4 +11,4 @@ gcc main.c -o painTUI -lncurses
 ./painTUI
 
 === Updated code here ===
-https://github.com/rdWei/painTUI/settings
+https://github.com/SamueleAmato/painTUI/settings

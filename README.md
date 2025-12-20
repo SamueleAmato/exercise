@@ -1,2 +1,2 @@
-- [YACFM](https://github.com/rdWei/exercise/tree/main/c/yacfm)
-- [painTUI](https://github.com/rdWei/exercise/tree/main/c/painTUI)
+- [YACFM](https://github.com/SamueleAmato/exercise/tree/main/c/yacfm)
+- [painTUI](https://github.com/SamueleAmato/exercise/tree/main/c/painTUI)
