@@ -1,2 +1,1 @@
-- [YACFM](https://github.com/SamueleAmato/exercise/tree/main/c/yacfm)
-- [painTUI](https://github.com/SamueleAmato/exercise/tree/main/c/painTUI)
+some ex. in some lang
